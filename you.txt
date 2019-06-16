@@ -9,3 +9,5 @@ current is at dev branch
 Hahha no no  no
 
 What's wrong
+
+I want no ff mode merge
