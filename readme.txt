@@ -6,5 +6,5 @@ Just test git
 
 Creating a new branch is quick.
 
-哈哈哈你好吗
+Creating a new branch is quick AND simple.
 
