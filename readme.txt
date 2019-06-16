@@ -12,4 +12,4 @@ func Void test
 
 
 
-
+Fix a bug 101
